@@ -1,3 +1,25 @@
+# Laborator 11 - Săptămâna 11
+
+În cadrul laboratorului 11, fiecare student va primi cerințele pentru al doilea examen parțial. Acesta valorează `30%` din media notelor pe laborator.
+
+Va trebui să acceptați assignmentul și să încărcați rezolvarea în repository-ul creat astfel.
+
+Pentru rezolvarea cerințelor se recomandă să parcurgeți cursurile, seminarele și laboratoarele de până acum. De asemenea, se recomandă să folosiți la test fișierele existente în acest repository (pentru care trebuie să adăugați teste și specificații), dar acest lucru nu este obligatoriu.
+
+În timpul testului puteți folosi orice resurse, dar nu aveți voie să comunicați între voi sau cu terțe persoane și nici să accesați repository-urile de github ale colegilor voștri.
+
+Să vă asigurați că puteți face share screen și că aveți webcam și microfon funcționale. Fără acestea este posibil să vă fie refuzat accesul la test.
+
+Timpul de lucru va fi de: **1 oră și 30 minute**, care se poate prelungi cu `20` de minute dacă permit condițiile.
+
+Programul se evaluează exact în forma în care este submis pe github la expirarea timpului de lucru.
+
+Orice erori la pornirea programului înseamnă notarea testului cu 1.
+
+Mai jos aveți un exemplu de subiect. Acesta NU este ce veți primi la examen, este doar un model.
+
+--- 
+
 Scrieți un program cu meniu de tip consolă. Programul va reține datele într-un fișier. Vor fi suportate următoarele funcționalități:
 1. [1p] Adăugare localitate: id, nume (string nenul), tip (`sat`, `oraș`, `municipiu`).
 2. [2p] Adăugare rută autocar: id, id_oraș_pornire, id_oraș_oprire (trebuie să existe și să fie distincte ca pereche), preț, dus-întors (`true` / `false`). 
@@ -26,3 +48,4 @@ Punctajul pe fiecare cerință se acordă astfel:
 - o cerință nefuncțională se notează cu `0`. 
 - nereținerea datelor în fișiere de către studenții de la mate-info și fizică-info duce la o penalizare de `50%` din punctajul obținut conform baremului. 
 - o implementare non-OOP duce la o penalizare de `50%` din punctajul obținut conform baremului.
+
